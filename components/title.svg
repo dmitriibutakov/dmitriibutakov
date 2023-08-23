@@ -5,9 +5,9 @@
                 h1, h2 {
                 font-family: sans-serif;
                 line-height: 1;
-                margin: 0 0 16px 0;
                 }
                 h1 {
+                margin: 0 0 16px 0;
                 padding: 32px 0 0 0;
                 font-family: sans-serif;
                 background: -webkit-linear-gradient(315deg,#42d392 25%,#647eff);
@@ -16,7 +16,8 @@
                 -webkit-text-fill-color: transparent;
                 }
                 h2 {
-                background: -webkit-linear-gradient(315deg,#647ef0 15%,#42d392);
+                margin: 0;
+                background: -webkit-linear-gradient(315deg,#647ef0 25%,#42d392);
                 font-size: 32px;
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
